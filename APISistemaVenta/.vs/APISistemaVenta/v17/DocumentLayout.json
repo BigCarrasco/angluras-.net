@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{456BD108-CEB2-470B-8569-E04D7BAC8698}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\users\\angel\\documents\\angluras-.net\\apisistemaventa\\sistemaventa.dal\\dbcontext\\dbventacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{456BD108-CEB2-470B-8569-E04D7BAC8698}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\dbcontext\\dbventacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626846A0-3E55-4CA4-ABFF-C6BB3584DC49}|SistemaVenta.Model\\SistemaVenta.Model.csproj|c:\\users\\angel\\documents\\angluras-.net\\apisistemaventa\\sistemaventa.model\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626846A0-3E55-4CA4-ABFF-C6BB3584DC49}|SistemaVenta.Model\\SistemaVenta.Model.csproj|solutionrelative:sistemaventa.model\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\angluras-.net\\APISistemaVenta\\SistemaVenta.Model\\Categoria.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.Model\\Categoria.cs",
+              "ToolTip": "C:\\Users\\angel\\Documents\\angluras-.net\\APISistemaVenta\\SistemaVenta.Model\\Categoria.cs",
+              "RelativeToolTip": "SistemaVenta.Model\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T20:28:20.177Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "SistemaVenta.DAL\\DBContext\\DbventaContext.cs",
               "ToolTip": "C:\\Users\\angel\\Documents\\angluras-.net\\APISistemaVenta\\SistemaVenta.DAL\\DBContext\\DbventaContext.cs",
               "RelativeToolTip": "SistemaVenta.DAL\\DBContext\\DbventaContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAowCcAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T20:20:38.337Z",
               "EditorCaption": ""
