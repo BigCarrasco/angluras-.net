@@ -10,3 +10,9 @@ C:\Users\angel\Documents\angluras-.net\APISistemaVenta\SistemaVenta.Utility\obj\
 C:\Users\angel\Documents\angluras-.net\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\refint\SistemaVenta.Utility.dll
 C:\Users\angel\Documents\angluras-.net\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.pdb
 C:\Users\angel\Documents\angluras-.net\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\ref\SistemaVenta.Utility.dll
+C:\Users\angel\Documents\angluras-.net\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.DTO.dll
+C:\Users\angel\Documents\angluras-.net\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.Model.dll
+C:\Users\angel\Documents\angluras-.net\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.DTO.pdb
+C:\Users\angel\Documents\angluras-.net\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.Model.pdb
+C:\Users\angel\Documents\angluras-.net\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.csproj.AssemblyReference.cache
+C:\Users\angel\Documents\angluras-.net\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaV.10E87F00.Up2Date

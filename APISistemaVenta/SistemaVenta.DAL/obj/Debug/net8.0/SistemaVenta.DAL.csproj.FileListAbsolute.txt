@@ -10,3 +10,7 @@ C:\Users\angel\Documents\angluras-.net\APISistemaVenta\SistemaVenta.DAL\obj\Debu
 C:\Users\angel\Documents\angluras-.net\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\refint\SistemaVenta.DAL.dll
 C:\Users\angel\Documents\angluras-.net\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.pdb
 C:\Users\angel\Documents\angluras-.net\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\ref\SistemaVenta.DAL.dll
+C:\Users\angel\Documents\angluras-.net\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net8.0\SistemaVenta.Model.dll
+C:\Users\angel\Documents\angluras-.net\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net8.0\SistemaVenta.Model.pdb
+C:\Users\angel\Documents\angluras-.net\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
+C:\Users\angel\Documents\angluras-.net\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaV.EE7A9206.Up2Date

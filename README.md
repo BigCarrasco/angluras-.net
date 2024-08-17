@@ -19,7 +19,7 @@
    - **SistemaVenta.Utility**
    - **SistemaVenta.API**: Capa de Aplicación
 
-4.1 ** Se establece como principal la capa `SistemaVenta.Model`.
+4.1 **Se estable como proyecto de inicio la capa `SistemaVenta.Model`.
 
 4.2 Copia y pega este codigo: "Scaffold-DbContext "Server=(local); DataBase=dbventa; Trusted_Connection=True; TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer" en la terminal de Nuget
 
@@ -40,3 +40,5 @@
      - Se agregó la referencia entre el proyecto `SistemaVenta.API` a `SistemaVenta.BLL`, `SistemaVenta.DTO` y `SistemaVenta.IOC` a través de dependencias.
 
 6. **Se elimina la clase** `DbventaContext.cs` **ubicada dentro de** `SistemaVenta.Model`.
+
+ **Establecer como proyecto de inicio a SistemaVenta.API

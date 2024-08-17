@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\angel\\Documents\\angluras-.net\\APISistemaVenta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02D3FAC1-3986-4581-B254-B6CB5873D494}|SistemaVenta.API\\SistemaVenta.API.csproj|c:\\users\\angel\\documents\\angluras-.net\\apisistemaventa\\sistemaventa.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02D3FAC1-3986-4581-B254-B6CB5873D494}|SistemaVenta.API\\SistemaVenta.API.csproj|solutionrelative:sistemaventa.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{456BD108-CEB2-470B-8569-E04D7BAC8698}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\users\\angel\\documents\\angluras-.net\\apisistemaventa\\sistemaventa.dal\\dbcontext\\dbventacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{456BD108-CEB2-470B-8569-E04D7BAC8698}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\dbcontext\\dbventacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{626846A0-3E55-4CA4-ABFF-C6BB3584DC49}|SistemaVenta.Model\\SistemaVenta.Model.csproj|c:\\users\\angel\\documents\\angluras-.net\\apisistemaventa\\sistemaventa.model\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{626846A0-3E55-4CA4-ABFF-C6BB3584DC49}|SistemaVenta.Model\\SistemaVenta.Model.csproj|solutionrelative:sistemaventa.model\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{02D3FAC1-3986-4581-B254-B6CB5873D494}|SistemaVenta.API\\SistemaVenta.API.csproj|c:\\users\\angel\\documents\\angluras-.net\\apisistemaventa\\sistemaventa.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{02D3FAC1-3986-4581-B254-B6CB5873D494}|SistemaVenta.API\\SistemaVenta.API.csproj|solutionrelative:sistemaventa.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7520741-FE3E-4E5C-BBF0-50030EC61120}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|c:\\users\\angel\\documents\\angluras-.net\\apisistemaventa\\sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7520741-FE3E-4E5C-BBF0-50030EC61120}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|solutionrelative:sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,66 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\Documents\\angluras-.net\\APISistemaVenta\\SistemaVenta.API\\Program.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.API\\Program.cs",
-              "ToolTip": "C:\\Users\\angel\\Documents\\angluras-.net\\APISistemaVenta\\SistemaVenta.API\\Program.cs",
-              "RelativeToolTip": "SistemaVenta.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T01:02:26.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Dependencia.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\Documents\\angluras-.net\\APISistemaVenta\\SistemaVenta.IOC\\Dependencia.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.IOC\\Dependencia.cs",
-              "ToolTip": "C:\\Users\\angel\\Documents\\angluras-.net\\APISistemaVenta\\SistemaVenta.IOC\\Dependencia.cs",
-              "RelativeToolTip": "SistemaVenta.IOC\\Dependencia.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T00:51:31.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\angel\\Documents\\angluras-.net\\APISistemaVenta\\SistemaVenta.API\\appsettings.json",
               "RelativeDocumentMoniker": "SistemaVenta.API\\appsettings.json",
               "ToolTip": "C:\\Users\\angel\\Documents\\angluras-.net\\APISistemaVenta\\SistemaVenta.API\\appsettings.json",
               "RelativeToolTip": "SistemaVenta.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-17T00:39:02.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\Documents\\angluras-.net\\APISistemaVenta\\SistemaVenta.Model\\Categoria.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.Model\\Categoria.cs",
-              "ToolTip": "C:\\Users\\angel\\Documents\\angluras-.net\\APISistemaVenta\\SistemaVenta.Model\\Categoria.cs",
-              "RelativeToolTip": "SistemaVenta.Model\\Categoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T20:28:20.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DbventaContext.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\Documents\\angluras-.net\\APISistemaVenta\\SistemaVenta.DAL\\DBContext\\DbventaContext.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.DAL\\DBContext\\DbventaContext.cs",
-              "ToolTip": "C:\\Users\\angel\\Documents\\angluras-.net\\APISistemaVenta\\SistemaVenta.DAL\\DBContext\\DbventaContext.cs",
-              "RelativeToolTip": "SistemaVenta.DAL\\DBContext\\DbventaContext.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAIwCUAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T20:20:38.337Z",
+              "WhenOpened": "2024-08-17T02:24:48.348Z",
               "EditorCaption": ""
             }
           ]
