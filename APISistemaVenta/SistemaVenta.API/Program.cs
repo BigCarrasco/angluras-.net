@@ -7,7 +7,7 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.InyectarDependencias(); //Metodo de Extensión: Es una forma de agregar nuevas funcionalidades a tipos existentes sin modificar su definición original,
+builder.Services.InyectarDependencias(builder.Configuration); //Metodo de Extensión: Es una forma de agregar nuevas funcionalidades a tipos existentes sin modificar su definición original,
 
 var app = builder.Build();
 
