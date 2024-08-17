@@ -8,7 +8,7 @@
 1. **Se inicializa el proyecto en blanco.**
 2. **Se descarga con NuGet...**
 3. **Se agrega una solución de tipo** `ASP.Net Core WebAPI` **con .NET 8 con el nombre** `SistemaVenta.API`.
-   - Se establece como principal la capa `SistemaVenta.Model`.
+ 
 
 4. **Se agregan un conjunto de soluciones de "clases de biblioteca .NET" con .NET 8, que son las capas que estaremos usando:**
    - **SistemaVenta.BLL**: Capa de Negocio
@@ -18,6 +18,10 @@
    - **SistemaVenta.IOC**: Manejo de inyecciones de dependencias
    - **SistemaVenta.Utility**
    - **SistemaVenta.API**: Capa de Aplicación
+
+4.1 ** Se establece como principal la capa `SistemaVenta.Model`.
+
+4.2 Copia y pega este codigo: "Scaffold-DbContext "Server=(local); DataBase=dbventa; Trusted_Connection=True; TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer" en la terminal de Nuget
 
 5. **Referencias agregadas entre proyectos:**
    - **SistemaVenta.BLL:**
